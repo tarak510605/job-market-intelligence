@@ -1,10 +1,4 @@
 """
-Job Market Intelligence Dashboard — Data Cleaning Pipeline
-===========================================================
-Reads raw scraped data from data/raw/jobs_raw.csv, applies a
-multi-step cleaning process, and writes the cleaned result to
-data/cleaned/jobs_cleaned.csv.
-
 Cleaning steps
 --------------
 1. Load raw data and log shape / missing-value summary
